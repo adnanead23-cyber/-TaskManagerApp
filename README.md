@@ -30,12 +30,6 @@ This project allows users to manage daily tasks efficiently with a clean and res
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots here later)
-
----
-
 ## ⚙️ Installation
 
 1. Clone the repository
